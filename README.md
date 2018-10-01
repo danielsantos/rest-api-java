@@ -1,9 +1,5 @@
 # Rest API Java
-## Rest API Example - Java | Spring Boot
-
-Java<br>
-Spring Boot<br>
-Rest<br>
+## Rest API Example - Java | Spring Boot | Rest
 
 ### Usage
 
