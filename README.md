@@ -1,9 +1,10 @@
 # Rest API Java
-## Rest API Example - Java | Spring Boot | Rest
 
-### Usage
+Rest API Example - Java | Spring Boot | Rest
 
-Build and Run:
+## Getting Started
+
+To Build and Run:
 ```
 $ mvn spring-boot:run
 ```
