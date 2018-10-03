@@ -1,6 +1,6 @@
 # Rest API Java
 
-Rest API Example - Java | Spring Boot | Rest
+Rest API Example - Java | Spring Boot | Rest | Tests
 
 ## Getting Started
 
