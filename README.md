@@ -26,6 +26,6 @@ spring.jpa.hibernate.ddl-auto=update
 
 ### H2
 
-For view console dabatase H@ embedded, with the application up, access the url bellow:
+For view console dabatase H2 embedded, with the application up, access the url bellow:
 
 http://localhost:8080/h2-console
