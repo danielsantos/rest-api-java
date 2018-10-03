@@ -23,3 +23,9 @@ spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=update
 ```
+
+### H2
+
+For view console dabatase H@ embedded, with the application up, access the url bellow:
+
+http://localhost:8080/h2-console
