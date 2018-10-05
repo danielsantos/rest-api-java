@@ -8,10 +8,14 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 
 @Entity
 @Data
+@Builder
+@AllArgsConstructor
 public class Book {
 
 	@Id
@@ -41,5 +45,14 @@ public class Book {
 	
 	@Column
 	private Date dtInsert;
+
+	public Book(Long id) {
+		super();
+		this.id = id;
+	}
+
+	public Book() {
+		super();
+	}
 	
 }
