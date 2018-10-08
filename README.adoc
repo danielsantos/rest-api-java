@@ -32,3 +32,9 @@ For view console dabatase H2 embedded, with the application up, access the url b
 
 
 https://gist.github.com/mojavelinux/8198e5a5ac2570a0cf30[AsciiDoc Syntax Quick Reference]
+
+### Fonte
+
+O projeto teve como base para desenvolvimento o site abaixo:
+
+http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate
