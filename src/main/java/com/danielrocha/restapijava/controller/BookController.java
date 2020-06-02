@@ -72,5 +72,9 @@ public class BookController {
 
 		return ResponseEntity.noContent().build();
 	}
+	
+	public void test() {
+		System.out.println("Test..");
+	}
 
 }
