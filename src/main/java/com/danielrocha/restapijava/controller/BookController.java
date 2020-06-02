@@ -76,6 +76,7 @@ public class BookController {
 	public void test() {
 		System.out.println("Test..");
 		System.out.println("2Test..");
+		System.out.println("3Test..");
 	}
 
 }
