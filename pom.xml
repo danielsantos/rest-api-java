@@ -17,6 +17,14 @@
 		<version>2.0.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
+	<distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub tvcsantos Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/danielsantos/releases</url>
+        </repository>
+    </distributionManagement>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
