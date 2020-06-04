@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub tvcsantos Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/danielsantos/releases</url>
+            <url>https://maven.pkg.github.com/danielsantos/rest-api-java</url>
         </repository>
     </distributionManagement>
 
